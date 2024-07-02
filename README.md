@@ -12,7 +12,7 @@ C4_W3 - Question Answering
 C4_W4 - Chatbot
 
 
-**Key Learnings: **
+**Key Learnings:**
 - Seq2seq Model with Attention
 - Machine Translation project
 - Attention mechanism techniques
