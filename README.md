@@ -5,7 +5,7 @@ Models](https://www.coursera.org/learn/attention-models-in-nlp)
 
 C4_W1 - Neural Machine Translation
 
-C4_W2 - Trnsformer Summerizer 
+C4_W2 - Transformer Summerizer 
 
 C4_W3 - Question Answering
 
